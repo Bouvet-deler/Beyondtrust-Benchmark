@@ -1,4 +1,5 @@
-1. Clone repository
+1. Download and install git if not already present: https://git-scm.com/
+1. Clone repository ```git clone https://github.com/Bouvet-deler/Beyondtrust-Benchmark.git ```
 1. Run Measure-GitBranch.ps1 to measure the time for the command ```git branch``` 10 times.
 1. The output should be something like this:
 ```
