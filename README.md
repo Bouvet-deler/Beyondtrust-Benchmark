@@ -1,5 +1,5 @@
 1. Download and install git if not already present: https://git-scm.com/
-2. Open powershell and paste "Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process -Force"
+2. Run powershell as admin and paste "Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process -Force"
 3. Navigate to c:\temp and clone repository ```git clone https://github.com/Bouvet-deler/Beyondtrust-Benchmark.git ```
 4. Run Measure-GitBranch.ps1 to measure the time for the command ```git branch``` 10 times.
 
